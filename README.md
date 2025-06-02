@@ -5,3 +5,4 @@ Also, it will use at least 1 character from each group: small letters, capital l
 Besides this, it will randomly mix the characters
 
 download link for windows: https://raw.githubusercontent.com/heikowissler/PasswordForge/main/PasswordForge_v4_public.exe
+or compile the .ahk file yourself ;-)
